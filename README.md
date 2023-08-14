@@ -15,7 +15,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/karimelsaadany/mars-rover-simulation.git)https://github.com/karimelsaadany/mars-rover-simulation.git
+git clone https://github.com/karimelsaadany/mars-rover-simulation.git
 ```
 2. Navigate into the directory:
 ```bash
